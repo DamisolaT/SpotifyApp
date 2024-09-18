@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520286223732",
+    "project_id": "spotify-24",
+    "storage_bucket": "spotify-24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520286223732:android:5e4fca3b814423dac10021",
+        "android_client_info": {
+          "package_name": "com.example.spotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNIEQgFTc6RAANHS7JtKcT47_jdwMKE6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520286223732:android:81d7e384f8cbd8a0c10021",
+        "android_client_info": {
+          "package_name": "com.example.spotify24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNIEQgFTc6RAANHS7JtKcT47_jdwMKE6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
