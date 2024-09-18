@@ -7,6 +7,7 @@
   "client": [
     {
       "client_info": {
+<<<<<<< HEAD
         "mobilesdk_app_id": "1:520286223732:android:5e4fca3b814423dac10021",
         "android_client_info": {
           "package_name": "com.example.spotify"
@@ -26,6 +27,8 @@
     },
     {
       "client_info": {
+=======
+>>>>>>> 14487d6fe0bb0d91463388cf6d7c3a1bc0562349
         "mobilesdk_app_id": "1:520286223732:android:81d7e384f8cbd8a0c10021",
         "android_client_info": {
           "package_name": "com.example.spotify24"
