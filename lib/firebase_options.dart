@@ -41,50 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBZzROqtKQQyB-w2gimCuF22AqPojudM2w',
-    appId: '1:520286223732:web:ebab52e43928e1cac10021',
-    messagingSenderId: '520286223732',
-    projectId: 'spotify-24',
-    authDomain: 'spotify-24.firebaseapp.com',
-    storageBucket: 'spotify-24.appspot.com',
+    apiKey: 'AIzaSyA2csQ5_YdRPDbx3iQHfCxmw6oRsVH6se8',
+    appId: '1:302623590628:web:e6fe83e6cbd10e013584f1',
+    messagingSenderId: '302623590628',
+    projectId: 'spotify-app-24-a8d32',
+    authDomain: 'spotify-app-24-a8d32.firebaseapp.com',
+    storageBucket: 'spotify-app-24-a8d32.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBNIEQgFTc6RAANHS7JtKcT47_jdwMKE6Y',
-<<<<<<< HEAD
-    appId: '1:520286223732:android:5e4fca3b814423dac10021',
-=======
-    appId: '1:520286223732:android:81d7e384f8cbd8a0c10021',
->>>>>>> 14487d6fe0bb0d91463388cf6d7c3a1bc0562349
-    messagingSenderId: '520286223732',
-    projectId: 'spotify-24',
-    storageBucket: 'spotify-24.appspot.com',
+    apiKey: 'AIzaSyDgCFdyoXFrXl7_x7iYigENZgbhKhb7BOw',
+    appId: '1:302623590628:android:5fc6f33885dc6cbb3584f1',
+    messagingSenderId: '302623590628',
+    projectId: 'spotify-app-24-a8d32',
+    storageBucket: 'spotify-app-24-a8d32.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAvcejycVPCUdHkEjyvk6nexSbgF3VDZ_k',
-    appId: '1:520286223732:ios:7bcd95a2f472ded4c10021',
-    messagingSenderId: '520286223732',
-    projectId: 'spotify-24',
-    storageBucket: 'spotify-24.appspot.com',
+    apiKey: 'AIzaSyBUtCV6qzJV3KY--u6V5a8Qi2BCvDLVUmA',
+    appId: '1:302623590628:ios:08f3c81cf16c61333584f1',
+    messagingSenderId: '302623590628',
+    projectId: 'spotify-app-24-a8d32',
+    storageBucket: 'spotify-app-24-a8d32.appspot.com',
     iosBundleId: 'com.example.spotifyApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAvcejycVPCUdHkEjyvk6nexSbgF3VDZ_k',
-    appId: '1:520286223732:ios:7bcd95a2f472ded4c10021',
-    messagingSenderId: '520286223732',
-    projectId: 'spotify-24',
-    storageBucket: 'spotify-24.appspot.com',
+    apiKey: 'AIzaSyBUtCV6qzJV3KY--u6V5a8Qi2BCvDLVUmA',
+    appId: '1:302623590628:ios:08f3c81cf16c61333584f1',
+    messagingSenderId: '302623590628',
+    projectId: 'spotify-app-24-a8d32',
+    storageBucket: 'spotify-app-24-a8d32.appspot.com',
     iosBundleId: 'com.example.spotifyApp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBZzROqtKQQyB-w2gimCuF22AqPojudM2w',
-    appId: '1:520286223732:web:fc9d40bbc841f745c10021',
-    messagingSenderId: '520286223732',
-    projectId: 'spotify-24',
-    authDomain: 'spotify-24.firebaseapp.com',
-    storageBucket: 'spotify-24.appspot.com',
+    apiKey: 'AIzaSyA2csQ5_YdRPDbx3iQHfCxmw6oRsVH6se8',
+    appId: '1:302623590628:web:3c9fbf1008f3eadc3584f1',
+    messagingSenderId: '302623590628',
+    projectId: 'spotify-app-24-a8d32',
+    authDomain: 'spotify-app-24-a8d32.firebaseapp.com',
+    storageBucket: 'spotify-app-24-a8d32.appspot.com',
   );
 }
